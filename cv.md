@@ -34,3 +34,17 @@ javascript
 function getCount(str) {
   return str.split("").filter((item) => item.match(/[aoeui]/i)).length;
 }
+
+## Education
+
+- National Technical University "Kharkiv Polytechnic Institute", Master's degree:
+  - Educational program "Electric Drive, Mechatronics and Robotics"
+- Courses and Self-education:
+  - Udemy
+  - YouTube
+
+## Languages
+
+- Russian - native speaker.
+- Ukrainian - native speaker.
+- English - pre-intermediate (A2+)
